@@ -7,7 +7,7 @@ Everything in this README reflects the actual steps executed during the project 
 
 ## Project summary
 
-**Goal:** Clean, deduplicate and analyze a Netflix titles dataset (movies + TV shows) using SQL only. The workflow is designed to be reproducible and educational: each step explains *why* it was done.
+**Goal:** Clean the dataset, remove duplicates, and run basic exploratory analysis using SQL only.
 
 **Database objects used in this project**
 - `netflix_titles` — raw imported table (the CSV imported into MySQL)
